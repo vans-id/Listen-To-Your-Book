@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CapstoneProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_upload">Upload</string>
+    <string name="image_description">image</string>
+    <string name="pic_empty">empty</string>
+    <string name="no_books">Tidak ada Buku</string>
+    <string name="no_books_caption">Mulailah upload buku yang ingin kamu baca</string>
+    <string name="upload">Upload</string>
+    <string name="title_placeholder">Judul Buku</string>
+    <string name="author_placeholder">Penulis Buku</string>
+    <string name="play">play</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="poster">poster</string>
+</resources>

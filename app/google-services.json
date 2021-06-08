@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1068326104943",
+    "firebase_url": "https://listen-to-your-book-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "listen-to-your-book",
+    "storage_bucket": "listen-to-your-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068326104943:android:07d67c9f8fdc7c6551429a",
+        "android_client_info": {
+          "package_name": "com.B21_CAP0186.listentoyourbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068326104943-g8ajqjvbgla9jb7ppgp00eps4vh0j66o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgcFb83GDxUrvf-8klYrX0-mMWO0hdQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068326104943-g8ajqjvbgla9jb7ppgp00eps4vh0j66o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068326104943:android:33dadf3a3922a88351429a",
+        "android_client_info": {
+          "package_name": "com.djevannn.capstoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068326104943-g8ajqjvbgla9jb7ppgp00eps4vh0j66o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgcFb83GDxUrvf-8klYrX0-mMWO0hdQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068326104943-g8ajqjvbgla9jb7ppgp00eps4vh0j66o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
